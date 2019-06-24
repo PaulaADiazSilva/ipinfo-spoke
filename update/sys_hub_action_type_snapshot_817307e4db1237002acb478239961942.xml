@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_snapshot">
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get geographic data from a public IP address.</description>
+        <internal_name>get_geographic_data_from_ip</internal_name>
+        <label_cache>[]</label_cache>
+        <master>true</master>
+        <name>Get Geographic Data from IP</name>
+        <outputs/>
+        <parent_action display_value="Get Geographic Data from IP">5a10c724db1237002acb478239961955</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-24 14:39:29</sys_created_on>
+        <sys_id>817307e4db1237002acb478239961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Geographic Data from IP</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_364754_ipinfo_sp">053f72e0db1237002acb4782399619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">053f72e0db1237002acb4782399619a3</sys_scope>
+        <sys_update_name>sys_hub_action_type_snapshot_817307e4db1237002acb478239961942</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-24 14:39:29</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=817307e4db1237002acb478239961942"/>
+    <sys_variable_value action="delete_multiple" query="document_key=817307e4db1237002acb478239961942"/>
+</record_update>
